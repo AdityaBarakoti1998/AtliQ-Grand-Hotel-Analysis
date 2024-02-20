@@ -7,11 +7,11 @@ This project focuses on the comprehensive data analysis of the AtliQ Grand Hotel
 
 The analysis is built upon five CSV files:
 
-dim_date.csv: Dates information
-dim_hotels.csv: Details about the hotels
-dim_rooms.csv: Information on different room types
-fact_aggregated_bookings.csv: Aggregated booking data
-fact_bookings.csv: Detailed booking information
+1. dim_date.csv: Dates information
+2. dim_hotels.csv: Details about the hotels
+3. dim_rooms.csv: Information on different room types
+4. fact_aggregated_bookings.csv: Aggregated booking data
+5. fact_bookings.csv: Detailed booking information
 
 ## Objectives
 Explore and clean the booking data to ensure accuracy and reliability.
@@ -39,9 +39,9 @@ Investigated patterns in booking data to discern preferences for weekdays versus
 
 ## The project includes a series of visualizations:
 
-Bar charts showing the distribution of bookings across different platforms.
-Pie charts illustrating revenue shares by booking platforms.
-Line graphs to depict occupancy trends over time.
+1. Bar charts showing the distribution of bookings across different platforms.
+2. Pie charts illustrating revenue shares by booking platforms.
+3. Line graphs to depict occupancy trends over time.
 
 ## Conclusions
 The analysis provided valuable insights into the operational dynamics of AtliQ Grand Hotel. Key findings include the preference for online booking platforms, higher occupancy rates during weekends, and significant revenue generation from luxury categories in metropolitan cities.
