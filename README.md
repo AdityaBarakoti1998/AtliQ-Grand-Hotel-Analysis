@@ -1,7 +1,7 @@
 # AtliQ Grand Hotel Data Analytics
 
 ## Project Overview
-This project focuses on the comprehensive data analysis of the AtliQ Grand Hotel's operational datasets. Utilizing Python and its powerful libraries (Pandas for data manipulation, Matplotlib, and Seaborn for visualization), we delve into the hotel's booking data to uncover insights that can drive better business decisions and enhance customer satisfaction.
+This project focuses on the comprehensive data analysis of the AtliQ Grand Hotel's operational datasets. Utilizing Python and its powerful libraries (Pandas for data manipulation,cleaning, transformation and visualization), we delve into the hotel's booking data to uncover insights that can drive better business decisions and enhance customer satisfaction.
 
 ## Datasets
 
@@ -34,8 +34,8 @@ Examined the impact of booking platforms on hotel bookings and revenues.
 Investigated patterns in booking data to discern preferences for weekdays versus weekends.
 
 ## Technologies Used
-Python
-Pandas
+1. Python
+2. Pandas
 
 ## The project includes a series of visualizations:
 
